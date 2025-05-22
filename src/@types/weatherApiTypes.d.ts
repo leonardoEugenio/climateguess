@@ -15,16 +15,6 @@ type CurrentClimateTypes = {
   temp_c: number
   temp_f: number
   is_day: number
-  condition: {
-    text: string
-    icon: string
-    code: number
-  }
-}
-
-type CurrentClimateResponse = {
-  location: LocationTypes
-  current: CurrentClimateTypes
   wind_mph: number
   wind_kph: number
   wind_degree: number
@@ -48,4 +38,14 @@ type CurrentClimateResponse = {
   uv: number
   gust_mph: number
   gust_kph: number
+  condition: {
+    text: string
+    icon: string
+    code: number
+  }
+}
+
+type CurrentClimateResponse = {
+  location: LocationTypes
+  current: CurrentClimateTypes
 }
