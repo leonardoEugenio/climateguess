@@ -1,0 +1,121 @@
+[
+  { "code": 1000, "descriptionPt": "Ensolarado", "descriptionEn": "Sunny" },
+  {
+    "code": 1001,
+    "descriptionPt": "Parcialmente nublado",
+    "descriptionEn": "Partly Cloudy"
+  },
+  { "code": 1002, "descriptionPt": "Nublado", "descriptionEn": "Cloudy" },
+  {
+    "code": 1003,
+    "descriptionPt": "Céu encoberto",
+    "descriptionEn": "Overcast"
+  },
+  {
+    "code": 1004,
+    "descriptionPt": "Chuva leve",
+    "descriptionEn": "Light Rain"
+  },
+  {
+    "code": 1005,
+    "descriptionPt": "Chuva moderada",
+    "descriptionEn": "Moderate Rain"
+  },
+  {
+    "code": 1006,
+    "descriptionPt": "Chuva forte",
+    "descriptionEn": "Heavy Rain"
+  },
+  {
+    "code": 1007,
+    "descriptionPt": "Chuva com trovoadas",
+    "descriptionEn": "Thunderstorms"
+  },
+  {
+    "code": 1008,
+    "descriptionPt": "Tempestade com raios",
+    "descriptionEn": "Lightning Storm"
+  },
+  {
+    "code": 1009,
+    "descriptionPt": "Chuva e vento forte",
+    "descriptionEn": "Rain and Strong Wind"
+  },
+  { "code": 1010, "descriptionPt": "Garoa", "descriptionEn": "Drizzle" },
+  { "code": 1011, "descriptionPt": "Neblina", "descriptionEn": "Mist" },
+  {
+    "code": 1012,
+    "descriptionPt": "Nevoeiro denso",
+    "descriptionEn": "Dense Fog"
+  },
+  { "code": 1013, "descriptionPt": "Neve leve", "descriptionEn": "Light Snow" },
+  {
+    "code": 1014,
+    "descriptionPt": "Neve moderada",
+    "descriptionEn": "Moderate Snow"
+  },
+  { "code": 1015, "descriptionPt": "Nevasca", "descriptionEn": "Blizzard" },
+  { "code": 1016, "descriptionPt": "Granizo", "descriptionEn": "Hail" },
+  { "code": 1017, "descriptionPt": "Frio seco", "descriptionEn": "Dry Cold" },
+  { "code": 1018, "descriptionPt": "Quente seco", "descriptionEn": "Dry Heat" },
+  {
+    "code": 1019,
+    "descriptionPt": "Quente úmido",
+    "descriptionEn": "Humid Heat"
+  },
+  {
+    "code": 1020,
+    "descriptionPt": "Frio úmido",
+    "descriptionEn": "Humid Cold"
+  },
+  {
+    "code": 1021,
+    "descriptionPt": "Clima montanhoso",
+    "descriptionEn": "Mountain Climate"
+  },
+  {
+    "code": 1022,
+    "descriptionPt": "Clima árido",
+    "descriptionEn": "Arid Climate"
+  },
+  {
+    "code": 1023,
+    "descriptionPt": "Clima tropical com pancadas rápidas",
+    "descriptionEn": "Tropical with Sudden Showers"
+  },
+  {
+    "code": 1024,
+    "descriptionPt": "Clima equatorial úmido",
+    "descriptionEn": "Humid Equatorial Climate"
+  },
+  {
+    "code": 1025,
+    "descriptionPt": "Vento forte e seco",
+    "descriptionEn": "Strong Dry Wind"
+  },
+  {
+    "code": 1026,
+    "descriptionPt": "Rajadas de vento costeiro",
+    "descriptionEn": "Coastal Wind Gusts"
+  },
+  {
+    "code": 1027,
+    "descriptionPt": "Estável e seco",
+    "descriptionEn": "Stable and Dry"
+  },
+  {
+    "code": 1028,
+    "descriptionPt": "Frente fria chegando",
+    "descriptionEn": "Cold Front Approaching"
+  },
+  {
+    "code": 1029,
+    "descriptionPt": "Frente quente",
+    "descriptionEn": "Warm Front"
+  },
+  {
+    "code": 1030,
+    "descriptionPt": "Clima estável e ameno",
+    "descriptionEn": "Stable and Mild Climate"
+  }
+]
