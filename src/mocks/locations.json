@@ -1,0 +1,343 @@
+
+[
+  {
+    "country": "Brasil",
+    "region": "Sudeste",
+    "state": "São Paulo",
+    "city": "São Paulo",
+    "altitude_m": 760,
+    "characteristics": "Clima subtropical, com verões quentes e úmidos e invernos amenos e secos. Vegetação composta por áreas urbanas com remanescentes de florestas e parques.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Brasil",
+    "region": "Sudeste",
+    "state": "Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "altitude_m": 2,
+    "characteristics": "Clima tropical, quente e úmido durante todo o ano. Presença de florestas densas em áreas montanhosas e vegetação litorânea.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Brasil",
+    "region": "Centro-Oeste",
+    "state": "Distrito Federal",
+    "city": "Brasília",
+    "altitude_m": 1172,
+    "characteristics": "Clima tropical de altitude, com estação seca bem definida. Vegetação composta por arbustos espaçados, gramíneas e árvores retorcidas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Brasil",
+    "region": "Sul",
+    "state": "Rio Grande do Sul",
+    "city": "Porto Alegre",
+    "altitude_m": 10,
+    "characteristics": "Clima subtropical, com verões quentes e invernos frios. Vegetação de campos com gramíneas e árvores de pequeno porte.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Argentina",
+    "province": "Buenos Aires",
+    "city": "Buenos Aires",
+    "altitude_m": 25,
+    "characteristics": "Clima temperado, com verões quentes e invernos frescos. Vegetação de pradarias abertas e áreas urbanizadas com árvores exóticas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Argentina",
+    "province": "Córdoba",
+    "city": "Córdoba",
+    "altitude_m": 400,
+    "characteristics": "Clima temperado com verões quentes e invernos frios. Vegetação composta por pastagens, arbustos e florestas esparsas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Argentina",
+    "province": "Mendoza",
+    "city": "Mendoza",
+    "altitude_m": 750,
+    "characteristics": "Clima semiárido, com grandes variações de temperatura. Vegetação de arbustos baixos e áreas desérticas com irrigação para cultivo.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Chile",
+    "region": "Região Metropolitana",
+    "city": "Santiago",
+    "altitude_m": 520,
+    "characteristics": "Clima mediterrâneo, com verões secos e invernos chuvosos. Vegetação de arbustos adaptados à seca e áreas agrícolas irrigadas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Chile",
+    "region": "Valparaíso",
+    "city": "Valparaíso",
+    "altitude_m": 0,
+    "characteristics": "Clima mediterrâneo costeiro, com verões secos e invernos úmidos. Vegetação litorânea e áreas urbanas densas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Chile",
+    "region": "Antofagasta",
+    "city": "Antofagasta",
+    "altitude_m": 40,
+    "characteristics": "Clima desértico, com pouca precipitação ao longo do ano. Vegetação escassa adaptada a condições áridas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Peru",
+    "region": "Lima",
+    "city": "Lima",
+    "altitude_m": 154,
+    "characteristics": "Clima desértico costeiro, com alta umidade e pouca chuva. Vegetação escassa, com áreas urbanas densas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Peru",
+    "region": "Cusco",
+    "city": "Cusco",
+    "altitude_m": 3399,
+    "characteristics": "Clima de montanha, com temperaturas frias e variações térmicas significativas. Vegetação de altitude, com campos abertos e montanhas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Peru",
+    "region": "Arequipa",
+    "city": "Arequipa",
+    "altitude_m": 2335,
+    "characteristics": "Clima semiárido, com dias quentes e noites frias. Vegetação de arbustos e áreas agrícolas irrigadas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Colômbia",
+    "department": "Cundinamarca",
+    "city": "Bogotá",
+    "altitude_m": 2640,
+    "characteristics": "Clima temperado de montanha, com temperaturas amenas durante todo o ano. Vegetação de campos verdes e florestas montanhosas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Colômbia",
+    "department": "Antioquia",
+    "city": "Medellín",
+    "altitude_m": 1495,
+    "characteristics": "Clima tropical de altitude, com temperaturas agradáveis o ano inteiro. Vegetação exuberante e áreas urbanas verdes.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Colômbia",
+    "department": "Valle del Cauca",
+    "city": "Cali",
+    "altitude_m": 1000,
+    "characteristics": "Clima tropical, quente e úmido. Vegetação de florestas tropicais e áreas agrícolas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Equador",
+    "province": "Pichincha",
+    "city": "Quito",
+    "altitude_m": 2850,
+    "characteristics": "Clima temperado de montanha, com temperaturas moderadas e noites frias. Vegetação andina, com gramíneas e florestas nubladas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Equador",
+    "province": "Guayas",
+    "city": "Guayaquil",
+    "altitude_m": 4,
+    "characteristics": "Clima tropical, quente e úmido. Vegetação de manguezais e florestas tropicais.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Equador",
+    "province": "Azuay",
+    "city": "Cuenca",
+    "altitude_m": 2530,
+    "characteristics": "Clima temperado de montanha, com temperaturas amenas. Vegetação andina e áreas urbanas históricas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Venezuela",
+    "state": "Distrito Capital",
+    "city": "Caracas",
+    "altitude_m": 900,
+    "characteristics": "Clima tropical de altitude, com temperaturas agradáveis. Vegetação exuberante em áreas montanhosas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Maracaibo",
+    "altitude_m": 6,
+    "characteristics": "Clima tropical semiárido, com altas temperaturas. Vegetação de arbustos e áreas urbanas densas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Venezuela",
+    "state": "Carabobo",
+    "city": "Valência",
+    "altitude_m": 520,
+    "characteristics": "Clima tropical, com estação seca e chuvosa. Vegetação de florestas tropicais e áreas agrícolas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Bolívia",
+    "department": "La Paz",
+    "city": "La Paz",
+    "altitude_m": 3640,
+    "characteristics": "Clima de alta montanha, com ar rarefeito e temperaturas frias. Vegetação de altitude, com campos abertos e escassa cobertura vegetal.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Bolívia",
+    "department": "Santa Cruz",
+    "city": "Santa Cruz de la Sierra",
+    "altitude_m": 416,
+    "characteristics": "Clima tropical, quente e úmido. Vegetação de florestas tropicais e áreas agrícolas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Bolívia",
+    "department": "Cochabamba",
+    "city": "Cochabamba",
+    "altitude_m": 2570,
+    "characteristics": "Clima temperado de montanha, com temperaturas amenas. Vegetação de vales férteis e áreas urbanas verdes.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Paraguai",
+    "department": "Central",
+    "city": "Assunção",
+    "altitude_m": 43,
+    "characteristics": "Clima subtropical, com verões quentes e invernos amenos. Vegetação de campos e florestas subtropicais.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Paraguai",
+    "department": "Alto Paraná",
+    "city": "Ciudad del Este",
+    "altitude_m": 195,
+    "characteristics": "Clima subtropical úmido, com chuvas abundantes. Vegetação de florestas densas e áreas urbanas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Paraguai",
+    "department": "Itapúa",
+    "city": "Encarnación",
+    "altitude_m": 91,
+    "characteristics": "Clima subtropical, com verões quentes e invernos amenos. Vegetação de florestas subtropicais e áreas agrícolas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Uruguai",
+    "department": "Montevidéu",
+    "city": "Montevidéu",
+    "altitude_m": 43,
+    "characteristics": "Clima temperado, com verões quentes e invernos frios. Vegetação de campos e áreas urbanas arborizadas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Uruguai",
+    "department": "Salto",
+    "city": "Salto",
+    "altitude_m": 48,
+    "characteristics": "Clima subtropical, com verões quentes e invernos amenos. Vegetação de campos e áreas agrícolas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Uruguai",
+    "department": "Paysandú",
+    "city": "Paysandú",
+    "altitude_m": 44,
+    "characteristics": "Clima subtropical, com verões quentes e invernos amenos. Vegetação de campos e áreas urbanas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Guiana",
+    "region": "Demerara-Mahaica",
+    "city": "Georgetown",
+    "altitude_m": 0,
+    "characteristics": "Clima equatorial, quente e úmido durante todo o ano. Vegetação de florestas tropicais e áreas urbanas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Suriname",
+    "district": "Paramaribo",
+    "city": "Paramaribo",
+    "altitude_m": 3,
+    "characteristics": "Clima equatorial, com alta umidade e chuvas abundantes. Vegetação de florestas tropicais e áreas urbanas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Guiana Francesa",
+    "region": "Guiana Francesa",
+    "city": "Caiena",
+    "altitude_m": 7,
+    "characteristics": "Clima equatorial, quente e úmido. Vegetação de florestas tropicais e áreas urbanas.",
+    "continent": "América do Sul"
+  },
+  {
+    "country": "Estados Unidos",
+    "region": "Califórnia",
+    "city": "Los Angeles",
+    "altitude_m": 71,
+    "characteristics": "Clima mediterrâneo, com verões quentes e secos e invernos amenos e úmidos. Vegetação composta por áreas urbanas, chaparral e bosques.",
+    "continent": "América do Norte"
+  },
+  {
+    "country": "Estados Unidos",
+    "region": "Nova York",
+    "city": "Nova York",
+    "altitude_m": 10,
+    "characteristics": "Clima temperado úmido, com verões quentes e invernos frios. Vegetação urbana com parques e áreas verdes esparsas.",
+    "continent": "América do Norte"
+  },
+  {
+    "country": "Estados Unidos",
+    "region": "Texas",
+    "city": "Houston",
+    "altitude_m": 13,
+    "characteristics": "Clima subtropical úmido, com verões quentes e úmidos e invernos amenos. Vegetação com áreas urbanas e pastagens.",
+    "continent": "América do Norte"
+  },
+  {
+    "country": "Canadá",
+    "province": "Ontário",
+    "city": "Toronto",
+    "altitude_m": 76,
+    "characteristics": "Clima continental úmido, com verões quentes e invernos frios e com neve. Vegetação de florestas temperadas e áreas urbanas.",
+    "continent": "América do Norte"
+  },
+  {
+    "country": "Canadá",
+    "province": "Colúmbia Britânica",
+    "city": "Vancouver",
+    "altitude_m": 70,
+    "characteristics": "Clima oceânico temperado, com invernos suaves e verões frescos. Vegetação composta por florestas temperadas e áreas urbanas.",
+    "continent": "América do Norte"
+  },
+  {
+    "country": "México",
+    "region": "Cidade do México",
+    "city": "Cidade do México",
+    "altitude_m": 2250,
+    "characteristics": "Clima subtropical de altitude, com verões chuvosos e invernos secos. Vegetação mista de áreas urbanas e florestas temperadas.",
+    "continent": "América do Norte"
+  },
+  {
+    "country": "México",
+    "region": "Jalisco",
+    "city": "Guadalajara",
+    "altitude_m": 1560,
+    "characteristics": "Clima subtropical de altitude, com estação seca e chuvosa bem definidas. Vegetação de savana e áreas urbanas.",
+    "continent": "América do Norte"
+  },
+  {
+    "country": "México",
+    "region": "Nuevo León",
+    "city": "Monterrey",
+    "altitude_m": 540,
+    "characteristics": "Clima semiárido, com verões quentes e invernos amenos. Vegetação xerófila e áreas urbanas.",
+    "continent": "América do Norte"
+  }
+]
