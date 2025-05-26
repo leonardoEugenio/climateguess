@@ -6,6 +6,7 @@ export default async function PageGameAmericaDoSul() {
   const { biome, location, climate } = await generateClientRenderedParameters({
     continent: 'América do Sul',
   })
+
   return (
     <div className="w-full h-screen">
       <SouthAmericaMap />
@@ -87,15 +88,20 @@ export default async function PageGameAmericaDoSul() {
 
             <div className="space-y-1 mt-4 text-slate-900 dark:text-slate-100">
               <div className="bg-gradient-to-r from-cyan-50 to-blue-50 dark:from-slate-700 dark:to-slate-800 rounded-lg p-4 mt-4">
-                <div className="flex flex-col gap-2">
-                  <p className="text-lg font-semibold">
-                    <strong>🧭 DIREÇÃO:</strong> {climate.wind.windDirection}
-                  </p>
-                  <p className="">
-                    <strong>🍃 Velocidade:</strong>{' '}
-                    {climate.wind.speedInMetersPerHours} km/h
-                  </p>
+                <div className="flex flex-row flex-wrap gap-2">
                   <Compass direction={climate.wind.windDirection} />
+
+                  <div className="flex-1 flex flex-col items-center">
+                    <div className="my-auto">
+                      <p className="text-lg">
+                        <strong className="font-semibold">🧭 DIREÇÃO:</strong>{' '}
+                        {climate.wind.windDirection}
+                      </p>
+                      <p className="text-slate-600 dark:text-slate-400">
+                        {climate.wind.speedInMetersPerHours} km/h
+                      </p>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
