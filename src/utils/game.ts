@@ -46,6 +46,7 @@ export async function generateClientRenderedParameters(filters?: {
       code: number
       descriptionPt: string
       descriptionEn: string
+      emoji: string
     }
   }
 
@@ -56,8 +57,11 @@ export async function generateClientRenderedParameters(filters?: {
   } = drawCities(filters)
 
   const climate = await getClimate({ city })
-  const { code: conditionCode, descriptionPt: conditionDescriptionPt } =
-    getConditionToCode(climate.current.condition.code)
+  const {
+    code: conditionCode,
+    descriptionPt: conditionDescriptionPt,
+    emoji: conditionEmoji,
+  } = getConditionToCode(climate.current.condition.code)
 
   return {
     location: {
@@ -74,6 +78,7 @@ export async function generateClientRenderedParameters(filters?: {
       condition: {
         code: conditionCode,
         descriptionPt: conditionDescriptionPt,
+        emoji: conditionEmoji,
       },
       wind: {
         speedInMetersPerHours: climate.current.wind_kph,

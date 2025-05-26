@@ -1,3 +1,5 @@
+import { CompassDirection } from './compass'
+
 type LocationTypes = {
   name: string
   region: string
@@ -18,7 +20,7 @@ type CurrentClimateTypes = {
   wind_mph: number
   wind_kph: number
   wind_degree: number
-  wind_dir: string
+  wind_dir: CompassDirection
   pressure_mb: number
   pressure_in: number
   precip_mm: number
